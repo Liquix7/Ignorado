@@ -1,0 +1,6 @@
+config.json
+bin/**/*
+!bin
+node_modules
+**/*.class
+libs/**/node_modules
